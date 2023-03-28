@@ -96,27 +96,6 @@ a{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media screen and (min-width:481px) and (max-width:760px) {
     body{
         margin:7% 40%;
@@ -162,4 +141,12 @@ a{
         color: rgb(173, 132, 132);
         text-decoration: none;
     }
+}
+@media screen (min-width:320px;) {
+ .middle-name{
+width: 900vw;
+height: 988;
+    }
+ img{  {
+ }
 }
